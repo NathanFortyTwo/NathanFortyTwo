@@ -6,7 +6,7 @@
 
 - [Site Web](https://github.com/NathanFortyTwo/site-nathan) - ⚠️Work in progress⚠️ Personal Website using **Django**.
 - [TurboBlindTest](https://github.com/NathanFortyTwo/blindtest) Platform to create blindtests to play with friends. **(Django / JavaScript)**
-- [Osselets](https://github.com/NathanFortyTwo/osselets)  Trained an **AI** to play the ['Knucklebones'](https://cult-of-the-lamb.fandom.com/wiki/Knucklebones) minigame.
+- [Osselets](https://github.com/NathanFortyTwo/osselets)  Trained an **AI** to play the ['Knucklebones'](https://cult-of-the-lamb.fandom.com/wiki/Knucklebones) minigame using self-play (Reinforcement Learning).
 - [Swarm-rescue](https://github.com/NathanFortyTwo/private-swarm) **Swarm intelligence** algorithms in python to train drones to save rescues.
 - [Mood4Tweet](https://github.com/NathanFortyTwo/mood-4-tweet) - **AI** based tool (LSTM) to estimate the mood of a given tweet.
 - [Challenge-Entreprendre](https://github.com/NathanFortyTwo/challenge-entreprendre) **Django** website, using **seahorn** static analysis tool to check robot code correctness, for the mock startup [RosyVect](http://rosyvect.nathanferet.fr)
