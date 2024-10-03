@@ -10,7 +10,7 @@
 - [Swarm-rescue](https://github.com/NathanFortyTwo/private-swarm) **Swarm intelligence** algorithms in python to train drones to save rescues.
 - [Mood4Tweet](https://github.com/NathanFortyTwo/mood-4-tweet) - **AI** based tool (LSTM) to estimate the mood of a given tweet.
 - [Challenge-Entreprendre](https://github.com/NathanFortyTwo/challenge-entreprendre) **Django** website, using **seahorn** static analysis tool to check robot code correctness, for the mock startup [RosyVect](http://rosyvect.nathanferet.fr)
-
+- [SopraPhone](https://github.com/NathanFortyTwo/sopra-phone) Mobile **Kotlin** Application POC to do remote **AI** computation from **mobile devices**.
 ### Academic:
 
 - [GeoGuessr](https://github.com/rammalnour/image-geotagging) - **AI based** bot that can play GeoGuessR (guess the region from a picture).
